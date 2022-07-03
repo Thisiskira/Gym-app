@@ -1,2 +1,2 @@
 # Gym-app
-![Gym-app](https://imgur.com/KB22BXs)
+![Gym-app](https://i.imgur.com/KB22BXs.png)
